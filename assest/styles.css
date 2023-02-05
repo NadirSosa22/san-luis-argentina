@@ -1,0 +1,280 @@
+@importar  URL ( 'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap' );
+* {
+	margen :  0 ;
+	relleno :  0 ;
+	tamaño de caja : cuadro de borde;
+	familia de fuentes :  'Open Sans' ;   
+}
+
+cuerpo {
+	color de fondo : # 333 ;
+	tamaño de fondo : cubierta;
+}
+/*
+#encabezado-principal {
+	fondo: #333;
+	color blanco;
+	altura: 80px;
+}	
+	#principal-encabezado a {
+		color blanco;
+	}
+#encabezado-principal {
+        fondo: #333;
+        color blanco;
+        altura: 80px;
+        
+        ancho: 100%; /* hacemos que la cabecera ocupe el ancho completo de la pagina */
+/* izquierda: 0; /* Posicionamos la cabecera al lado izquierdo */
+/* superior: 0; /* Posicionamos la cabecera pegada arriba */
+/* posición: fijo; /* Hacemos que la cabecera tenga una posicion fija */
+ /* }
+    */
+
+    
+    
+
+navegación {
+    
+	max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  20 px ;
+	margen superior :  0 px ;
+    desbordamiento : oculto;
+}
+
+. menú-horizontal {
+	estilo de lista : ninguno;
+	pantalla : flexible;
+	justificar-contenido : espacio-alrededor;
+    desbordamiento : oculto;
+
+}
+
+. menu-horizontal  >  li  >  a {
+    familia de fuentes :  'El chico más afortunado' , cursiva;
+    pantalla : bloque;
+	relleno :  15 px  20 px ;
+	color : blanco;
+	decoración de texto : ninguno;
+    desbordamiento : oculto;
+}
+
+. menu-horizontal  >  li : hover {
+    
+	color de fondo :  # 272727 ;
+    desbordamiento : oculto;
+}
+
+. menú-vertical {
+	posición : absoluta;
+    
+	pantalla : ninguno;
+	estilo de lista : ninguno;
+	ancho :  200 píxeles ;
+	color de fondo :  rgba ( 0 ,  0 ,  0 ,  .5 );
+    desbordamiento : oculto;
+}
+
+. menú-horizontal  li : flotar . menú-vertical {
+
+	pantalla : bloque;
+    desbordamiento : oculto;
+}
+
+. menú-vertical  li : flotar {
+    familia de fuentes :  'El chico más afortunado' , cursiva;
+	color de fondo : negro;
+    desbordamiento : oculto;
+}
+
+. menú-vertical  li  a {
+    familia de fuentes :  'El chico más afortunado' , cursiva;
+	pantalla : bloque;;
+	color : blanco ; _ 
+	decoración de texto :  ninguno ;
+	relleno : 10px 10px 15px 20px;
+    desbordamiento :  oculto ;
+}
+
+# html {
+	margen : automático;
+	relleno :  20 px ;
+	ancho máximo :  900 px ;
+	fondo : blanco;
+}
+
+marco flotante {
+    pantalla : bloque;
+    margen : automático;
+}
+
+pie de página {
+altura mínima :  70 px ;
+color de fondo :  # 333 ;
+color : blanco;
+}
+
+
+dirección {	
+    max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  11,5 px ;
+	margen superior :  100 px ;
+
+}
+
+conjunto de campos {
+	ancho máximo :  900 px ;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  15 px ;
+	margen superior :  20 px ;
+}
+
+división {
+    max-width : ajuste-contenido;
+	margen : automático;
+	alinear elementos : centro;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  15 px ;
+    color : blanco;
+    
+
+}
+
+formulario {
+    ancho máximo :  500 px ;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  15 px ;
+}
+
+h1 {
+    familia de fuentes :  'Langosta' , cursiva;
+	max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  60 px ;
+	margen superior :  40 px ;
+    color : blanco;
+}
+
+h2 {
+    familia de fuentes :  'Justo' , cursiva;
+	max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  40 px ;
+	margen superior :  40 px ;
+    color : blanco;
+}
+
+pag {
+    max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  15 px ;
+    margen superior :  10 px ;
+    color : blanco;
+}
+
+figcaption {
+	max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  10 px ;
+	margen superior :  10 px ;
+    color : blanco;
+}
+
+leyenda {
+    max-width : ajuste-contenido;
+	margen : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  20 px ;
+	margen superior :  10 px ;
+    color : blanco;  
+}
+
+. imagen {
+	ancho :  50 % ;
+	margen :  50 % ;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  40 px ;
+	margen superior :  40 px ;
+    color : blanco;
+    desbordamiento : oculto;
+}
+
+figura {
+    max-width : ajuste-contenido;
+	margin : automático;
+	color de fondo :  # 333 ;
+	tamaño de fuente :  40 px ;
+	margen superior :  40 px ;
+    color : blanco;
+    desbordamiento : oculto;
+}
+
+
+
+
+
+/* espaciado */
+
+mesa {
+    diseño de la mesa : fijo;
+    margen : automático;
+    ancho :  50 % ;
+    colapso de borde : separado;
+    color : blanco;
+    borde superior : sólido 10 px  # 000000 ;
+    borde derecho : punteado 10 px  # 000000 ;
+    borde inferior : discontinua 10 px  # 000000 ;
+    borde izquierdo : surco   10 px  # 000000 ;
+  }
+ 
+mesa  td {
+    diseño de la mesa : fijo;
+    margen : automático;
+}  
+  
+  cabeza  t : nth-child ( 1 ) {
+    ancho :  30 % ;
+  }
+  
+  cabeza  th : nth-child ( 2 ) {
+    ancho :  20 % ;
+  }
+  
+  cabeza  th : nth-child ( 3 ) {
+    ancho :  15 % ;
+  }
+  
+  cabeza  th : nth-child ( 4 ) {
+    ancho :  35 % ;
+  }
+  
+  th ,  td {
+    relleno :  20 px ;
+	diseño de la mesa : fijo;
+    margen : automático;
+  }
+
+
+  . caja1 {
+    color de fondo : aguamarina;
+    ancho :  300 píxeles ;
+    relleno :  20 px ;
+    margen :  20 px automático;
+    borde superior : sólido 5 px rojo;
+    borde derecho : punteado 10 px magenta;
+    borde inferior : punteado 7 px verde;
+    borde izquierdo : sólido 12 px amarillo;
+    borde-radio :  20 % ;
+    altura :  300 píxeles ;
+    desbordamiento : automático
+}
